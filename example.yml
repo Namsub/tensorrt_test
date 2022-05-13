@@ -17,5 +17,5 @@ spring:
   profiles: ms2
 
 example:
-  name: ms2
-  type: ms2
+  name: msa2
+  type: msa2
