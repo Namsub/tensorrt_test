@@ -1,0 +1,21 @@
+#spring:
+#  profiles:
+#    active: ms1
+#
+---
+
+spring:
+  profiles: ms1
+
+example:
+  name: ms1
+  type: ms1
+
+---
+
+spring:
+  profiles: ms2
+
+example:
+  name: ms2
+  type: ms2
